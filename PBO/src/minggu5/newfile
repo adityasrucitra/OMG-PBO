@@ -1,0 +1,23 @@
+1. Buat program yang dapat melakukan input bilangan bulat (positif/negatif)
+
+2. Dari input dibuat method untuk menghitung :
+        A. Kuadrat bilangan
+        B. Akar bilangan
+        C: Positif/Negatif
+        D: Genap/Ganjil
+
+Clue:
+ 1. Bilangan ganjil jika di-modulo 2 = 1
+ 2. Bilangan genap jika di-modulo 2 = 0
+ 3. Bilangan Positif jika lebih dari 0
+ 4. Bilangan Negatif jika kurang dari 0
+ 5. Jika Bilangan negatif, maka akarnya = "Imaginer"
+ 6. Untuk menghitung akar, Silahkan gunakan cara sebagai berikut :
+        Double akar=Math.sqrt(bilangan);
+
+
+angka = -4.0                    || angka = 4.0
+akar = Imaginer                 || akar = 2,0
+Ganjil/genap = Genap            || Ganjil/genap = Genap 
+Kuadrat = 16.0                  || Kuadrat = 16.0 
+positif/negatif = Negatif       || positif/negatif = positif      

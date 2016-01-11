@@ -1,0 +1,30 @@
+TUGAS :
+=========
+
+1. Pada kelas mahasiswa, buat method overload dengan nama "Cetak" dengan
+    ketentuan sebagai berikut :
+    - Cetak nama, jurusan dan umur
+    - cetak email, fakultas, semester, jenis kelamin dan alamat
+    - cetak nama, jurusan, umur, email, fakultas, semester, jenis kelamin dan alamat
+
+2. Pada kelasUtama, buat inputan menggunakan JOptionPane untuk setiap variabel
+    yang akan digunakan pada kelas mahasiswa
+
+3. Sesuai dengan soal nomor 1, tampilkan menggunakan method cetak
+
+
+
+
+
+
+
+
+
+
+
+
+KRITERIA PENILAIAN :
+1. Kesesuaian source code dengan soal
+2. Proses
+3. Ketepatan waktu
+4. Silahkan dikerjakan sendiri

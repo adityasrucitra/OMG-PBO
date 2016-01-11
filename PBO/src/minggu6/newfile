@@ -1,0 +1,57 @@
+Tugas :
+====================================================================
+1. Pada kelas mahasiswa, buat method (overloaded) denga nama "cetak".
+    Method cetak digunakan untuk mencetak :
+    - nama, jurusan, umur
+    - email, fakultas,semester, jenis kelamin dan alamat
+    - nama, jurusan, umur, email, fakultas,semester, jenis kelamin dan alamat
+
+2. Buat input menggunakan JOptionPane pada KelasUtama untuk melakukan input variabel
+    pada kelas Mahasiswa.
+
+3. Tampilkan informasi mahasiswa dalam 3 bentuk berdasarkan soal nomor 1 
+
+
+Kriteria Penilaian :
+==================================
+1. Kesesuaian source code dengan soal (40%)
+2. Ketepatan Waktu (10%)
+3. Proses (30%)
+4. Output (20%)
+5. Silahkan dikerjakan sendiri :) 
+
+
+
+
+
+nama : Agus
+jurusan : Informatika
+umur : 24
+email : agoes@gmail.com
+fakultas :teknologi industri
+semester : 3
+Jenis Kelamin : Lakik
+Alamat : Yogya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

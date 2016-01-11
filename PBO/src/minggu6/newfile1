@@ -1,0 +1,19 @@
+TUGAS :
+
+1. Pada kelas Kendaraan, buat method overload dengan nama "Cetak", dengan ketentuan sebagai
+    berikut :
+    - Cetak Merk, CC,Jenis
+    - Cetak Tahun Produksi, Warna, Bahan Bakar
+    - Cetak Merk, CC,Jenis, Tahun Produksi, Warna, Bahan Bakar
+
+2. Pada MainClass, Buat input menggunakan JOptioPane kemudian masukkan hasil input tersebut
+    pada object kendaraan.
+
+3. Tampilkan informasi yang sudah di-input-kan tadi, sesuai dengan ketentuan pada soal nomor 1
+
+
+KRITERIA PENILAIAN :
+1. Kesesuaian source code dengan soal (20%)
+2. Proses (40%)
+3. Ketepatan waktu(10%)
+4. Silahkan dikerjakan sendiri (30%) 

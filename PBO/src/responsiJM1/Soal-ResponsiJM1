@@ -1,0 +1,55 @@
+1. Kelas Karyawan adalah kelas abstrak dengan spesifikasi sebagai berikut :
+    attribut/variabel :
+    - protected String nama;
+    - protected String alamat;
+    - protected String telepon;
+    - protected String jabatan;
+    - protected double gajiPokok;
+    - protected int jamLembur;
+    - protected double gajiLembur;
+    - protected double gajiTotal;
+
+    method :
+    - public abstract String getNama();
+    - public abstract String getAlamat();
+    - public abstract String getTelepon();
+    - public abstract String getJabatan();
+    - public abstract double getGajiPokok();
+    - public abstract int getJamLembur();    
+    - public abstract double getGajiTotal();
+
+2. Kelas Manager, adalah kelas yang mewarisi abstract class Karyawan, dengan 
+    spesifikasi sebagai berikut :
+    
+    attribut/variabel :
+    - hanya menggunakan variabel induk, tidak ada variabel lokal pada
+      class Manager
+
+    method :
+    - hanya menggunakan method yang merupakan implementasi method abstract pada 
+      Class Karyawan
+
+3. Kelas OfficeBoy adalah kelas yang mewarisi abstract class Karyawan, dengan 
+    spesifikasi sebagai berikut :
+
+    attribut/variabel :
+    - double gajiBonus;
+    - double jamBonus;
+    - dan variabel lainnya yang berasal dari kelas induk
+
+    method :
+    - public double getJamBonus()
+    - dan method lainnya yang merupakan implementasi method pada kelas induk 
+      dan interface    
+
+3. Interface InterfaceInputOutput ,  memiliki method sebagai berikut :
+    - public void input();
+    - public void output();
+
+4. Interface InterfaceLembur ,  memiliki method sebagai berikut :
+    - public void setGajiLembur(int jamLembur);
+    - public double getGajiLembur();
+
+5. Interface InterfaceBonus ,  memiliki method sebagai berikut :
+    - public void setBonus(int jamBonus);
+    - public double getBonus();

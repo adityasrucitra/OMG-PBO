@@ -1,0 +1,15 @@
+Class Mahasiswa
+     String nama;
+     String nim;
+     String Jurusan;
+
+Class MataKuliah
+    String namaMataKuliah;
+    int SKS;
+
+Class Penilaian
+    int nilai;
+    int keterangan;
+
+==> java main class
+

@@ -1,0 +1,21 @@
+1. Kelas Temperatur
+        variabel :
+            private double fahrenheit;
+            private double rheamur;
+            private double kelvin;
+        
+        Method :
+            getFahrenheit()
+            setFahrenheit(double celcius) --> fahrenheit = (9/ 5 * celcius) + 32;
+            getRheamur()
+            setRheamur(double celcius) --> rheamur = 4 / 5 * celcius;
+            getKelvin(){
+                return kelvin;
+            }
+            setKelvin(double celcius){
+                kelvin = celcius + 273;
+            }    
+2. Kelas TampilTemperatur --> Tampilkan konversi celcius ke fahrenheit, rheamur & kelvin                
+            String strCelcius=JOptionPane.showInputDialog ... ....;   
+            double celcius=Double.parseDouble(strCelcius);
+

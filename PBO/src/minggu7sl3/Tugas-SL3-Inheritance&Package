@@ -1,0 +1,22 @@
+Tugas - Pewarisan & Package
+===========================
+1. Buat kelas induk dengan nama "Karyawan" yang memiliki atribut/variabel sebagai berikut :
+    - protected String nama, String nip, double gaji dan 
+      String golongan ;
+
+2. Kelas induk memiliki constructor
+
+3. Kelas induk memiliki method :
+    -public String getNama, String getNip, double getGaji dan String getGolongan;
+
+4. Buat kelas anak dengan nama "Staff" dan "Dosen" yang mewarisi kelas "Karyawan"
+
+5. Pada kelas dosen, tambahkan variabel :
+    - String mataKuliah
+
+6. Pada Masing-Masing kelas anak, buat method input untuk menginputkan nilai masing-masing 
+    variabel pada kelas induk. input menggunakan JOptionPane.
+
+7. Buat method pada masing" kelas anak untuk menampilkan semua informasi yang sudah 
+    di-input-kan tadi 
+    
